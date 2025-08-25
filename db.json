@@ -3,6 +3,7 @@
     {
       "id": "p-bottle-001",
       "title": "시밀레 젖병소독기+램프1개",
+      "img":"https://raw.githubusercontent.com/dkdkwl/rn-db/main/images/젖병소독기.webp",
       "price": 80000,
       "category": "생활가전",
       "location": "중동",
@@ -21,6 +22,7 @@
     {
       "id": "p-cup-002",
       "title": "멕시칸 치맵컵(콜팝컵)",
+      "img":"https://raw.githubusercontent.com/dkdkwl/rn-db/main/images/치맥컵.webp",
       "price": 3000,
       "category": "주방/생활",
       "location": "상3동",
@@ -39,6 +41,7 @@
     {
       "id": "p-storage-003",
       "title": "Prota 수납 정리함",
+      "img":"https://raw.githubusercontent.com/dkdkwl/rn-db/main/images/수납바구니.webp",
       "price": 4000,
       "category": "가구/인테리어",
       "location": "상2동",
@@ -57,6 +60,7 @@
     {
       "id": "p-laptop-004",
       "title": "LG 울트라PC 노트북 15인치 라이젠3 15UD40N-GX36K 랩업글",
+      "img":"https://raw.githubusercontent.com/dkdkwl/rn-db/main/images/노트북.webp",
       "price": 270000,
       "category": "전자기기",
       "location": "중동",
