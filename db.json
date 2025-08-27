@@ -16,7 +16,8 @@
       "createdAt": "2025-08-25T12:00:00Z",
       "views": 120,
       "chats": 3,
-      "likes": 7
+      "likes": 7,
+      "img": "https://raw.githubusercontent.com/dkdkwl/rn-db/main/images/젖병소독기.webp"
     },
     {
       "id": "p-cup-002",
@@ -34,7 +35,8 @@
       "createdAt": "2025-08-25T13:00:00Z",
       "views": 85,
       "chats": 1,
-      "likes": 2
+      "likes": 2,
+      "img": "https://raw.githubusercontent.com/dkdkwl/rn-db/main/images/치맥컵.webp"
     },
     {
       "id": "p-storage-003",
@@ -52,7 +54,8 @@
       "createdAt": "2025-08-25T14:00:00Z",
       "views": 95,
       "chats": 2,
-      "likes": 5
+      "likes": 5,
+      "img": "https://raw.githubusercontent.com/dkdkwl/rn-db/main/images/수납바구니.webp"
     },
     {
       "id": "p-laptop-004",
@@ -70,7 +73,8 @@
       "createdAt": "2025-08-25T15:00:00Z",
       "views": 220,
       "chats": 4,
-      "likes": 10
+      "likes": 10,
+      "img": "https://raw.githubusercontent.com/dkdkwl/rn-db/main/images/노트북.webp"
     },
     {
       "id": "p-fridge-005",
@@ -88,7 +92,8 @@
       "createdAt": "2025-08-27T12:00:00Z",
       "views": 147,
       "chats": 3,
-      "likes": 5
+      "likes": 5,
+      "img": "https://raw.githubusercontent.com/dkdkwl/rn-db/main/images/냉장고.webp"
     },
     {
       "id": "p-baby-006",
@@ -106,7 +111,8 @@
       "createdAt": "2025-08-23T10:00:00Z",
       "views": 244,
       "chats": 4,
-      "likes": 4
+      "likes": 4,
+      "img": "https://raw.githubusercontent.com/dkdkwl/rn-db/main/images/아기띠.webp"
     },
     {
       "id": "p-dehumidifier-007",
@@ -124,7 +130,8 @@
       "createdAt": "2025-08-27T01:00:00Z",
       "views": 390,
       "chats": 8,
-      "likes": 2
+      "likes": 2,
+      "img": "https://raw.githubusercontent.com/dkdkwl/rn-db/main/images/제습기.webp"
     },
     {
       "id": "p-hotel-008",
@@ -142,7 +149,8 @@
       "createdAt": "2025-08-27T05:00:00Z",
       "views": 312,
       "chats": 2,
-      "likes": 6
+      "likes": 6,
+      "img": "https://raw.githubusercontent.com/dkdkwl/rn-db/main/images/인스파이어숙박.webp"
     },
     {
       "id": "p-bike-009",
@@ -160,7 +168,8 @@
       "createdAt": "2025-08-23T09:00:00Z",
       "views": 514,
       "chats": 5,
-      "likes": 13
+      "likes": 13,
+      "img": "https://raw.githubusercontent.com/dkdkwl/rn-db/main/images/실내자전거.webp"
     }
   ]
 }
