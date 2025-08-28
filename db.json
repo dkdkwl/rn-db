@@ -13,7 +13,7 @@
         "temperature": "65.0°C",
         "profile": "일반회원"
       },
-      "createdAt": "2025-08-25T12:00:00",
+      "createdAt": "2025-08-28T11:00:00",
       "views": 120,
       "chats": 3,
       "likes": 7,
@@ -173,4 +173,5 @@
     }
   ]
 }
+
 
